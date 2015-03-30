@@ -1,0 +1,31 @@
+body{
+
+}
+
+input{
+	width: 50px;
+	height: 50px;
+}
+
+.cuadrado{
+	margin-bottom: 10px;
+}
+
+h1{
+	color: teal;
+	font-family: Helvetica,'Pacifico';
+}
+.boton{
+	margin-top: 10px;
+	margin-bottom: 23px;
+}
+
+@media (max-width: 620px) {
+    input{
+	width: 40px;
+	height: 40px;
+    }
+    #sudoku,header{
+     width: 610px;
+	}
+}
