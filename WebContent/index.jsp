@@ -67,7 +67,7 @@
 		<div class="col-lg-2 col-lg-offset-3 col-xs-4 cuadrado">
 			<input type="text" id="d00" class="" name="d00" required></imput>
 			<input type="text" id="d01" class="" name="d01" required></imput>
-			<input type="text" id="p02" class="" name="p02" required></imput>
+			<input type="text" id="d02" class="" name="d02" required></imput>
 			<br>
 			<input type="text" id="d10" class="" name="d10" required></imput>
 			<input type="text" id="d11" class="" name="d11" required></imput>
